@@ -1,8 +1,11 @@
 Title:
-Small Bedroom Ideas to Maximize Space & Style
+Small Bedroom Ideas That Make Any Room Feel Bigger
 
 Description:
-Discover clever small bedroom ideas that make even the tiniest rooms feel cozy, organized, and stylish. From space-saving furniture and smart storage solutions to light color palettes, mirrors, and minimalist decor, these tips will help you create a bedroom that feels bigger, brighter, and more functional.
+Transform your tiny bedroom into a stylish, functional retreat with smart storage, cozy decor, and space-saving layout ideas. Discover easy ways to maximize every inch while keeping your room bright, organized, and beautiful.
 
 Keywords:
-small bedroom ideas, small bedroom decor, tiny bedroom ideas, small room design, bedroom storage ideas, space saving bedroom, cozy bedroom ideas, minimalist bedroom, small apartment bedroom, bedroom organization, small bedroom layout, small bedroom inspiration
+small bedroom ideas, tiny bedroom decor, bedroom storage ideas, small room design, space saving bedroom, cozy bedroom ideas, small bedroom layout, apartment bedroom ideas, minimalist bedroom, bedroom organization, small bedroom makeover, modern bedroom decor
+
+Image Prompt:
+Vertical Pinterest pin, 2:3 ratio, bright and airy small bedroom interior, neutral color palette with warm beige and white tones, space-saving bed with built-in storage drawers, floating shelves, cozy layered bedding, small nightstand, wall-mounted lighting, mirror to make the room feel larger, minimal modern decor, natural sunlight, clean organized aesthetic, stylish text overlay area at top, high-resolution lifestyle photography style.

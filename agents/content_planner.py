@@ -23,16 +23,25 @@ for topic in topics:
     print(f"Generating: {topic}")
 
     prompt = f"""
-Create Pinterest content for this topic.
+You are an expert Pinterest marketer.
+
+Create high-converting Pinterest content.
 
 Topic:
 {topic}
+
+Requirements:
+- SEO-friendly title
+- Engaging description
+- 10-15 keywords
+- AI Image Prompt for a vertical Pinterest pin
 
 Return exactly:
 
 Title:
 Description:
 Keywords:
+Image Prompt:
 """
 
     response = client.responses.create(
@@ -42,7 +51,6 @@ Keywords:
 
     result = response.output_text
 
-    # ファイル名を作る
     filename = re.sub(r"[^a-zA-Z0-9]+", "_", topic.lower()).strip("_")
 
     with open(output_dir / f"{filename}.md", "w", encoding="utf-8") as f:

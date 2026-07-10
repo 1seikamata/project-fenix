@@ -1,8 +1,11 @@
 Title:
-Coffee Bar Ideas for a Cozy and Stylish Home Setup
+Coffee Bar Ideas to Create a Cozy Café Corner at Home
 
 Description:
-Create the perfect at-home coffee station with these coffee bar ideas! From small kitchen corners to farmhouse-style setups, discover easy ways to organize mugs, syrups, coffee pods, and decor for a cozy café-inspired space.
+Turn any corner of your home into a stylish and functional coffee bar with these cozy coffee station ideas. From small-space setups to farmhouse shelves, organized mugs, and chic countertop styling, these coffee bar ideas will help you create the perfect at-home café for your morning routine.
 
 Keywords:
-coffee bar ideas, home coffee bar, coffee station ideas, kitchen coffee bar, small coffee bar, farmhouse coffee bar, coffee nook, coffee bar decor, DIY coffee bar, coffee cart ideas, coffee corner, home cafe ideas
+coffee bar ideas, home coffee bar, coffee station ideas, small coffee bar, kitchen coffee bar, farmhouse coffee bar, coffee corner, cozy coffee bar, coffee bar decor, DIY coffee bar, countertop coffee station, coffee nook, home café ideas
+
+Image Prompt:
+Vertical Pinterest pin, 2:3 ratio, cozy home coffee bar setup in a bright kitchen corner, wooden floating shelves with mugs, glass jars of coffee beans and sugar, espresso machine on a white countertop, warm neutral decor, small plants, woven baskets, soft morning light, modern farmhouse style, clean organized layout, inviting at-home café aesthetic, text overlay space at top, high-resolution lifestyle photography style.
