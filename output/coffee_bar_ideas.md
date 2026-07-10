@@ -1,11 +1,11 @@
 Title:
-Coffee Bar Ideas to Create a Cozy Café Corner at Home
+25 Cozy Coffee Bar Ideas to Create the Perfect Home Café
 
 Description:
-Turn any corner of your home into a stylish and functional coffee bar with these cozy coffee station ideas. From small-space setups to farmhouse shelves, organized mugs, and chic countertop styling, these coffee bar ideas will help you create the perfect at-home café for your morning routine.
+Transform any corner of your home into a stylish coffee station with these cozy coffee bar ideas. From small-space setups to farmhouse shelves and modern countertop styling, discover easy ways to organize mugs, syrups, pods, and décor for a café-inspired look you’ll love every morning.
 
 Keywords:
-coffee bar ideas, home coffee bar, coffee station ideas, small coffee bar, kitchen coffee bar, farmhouse coffee bar, coffee corner, cozy coffee bar, coffee bar decor, DIY coffee bar, countertop coffee station, coffee nook, home café ideas
+coffee bar ideas, home coffee bar, coffee station ideas, kitchen coffee bar, small coffee bar, farmhouse coffee bar, coffee bar decor, coffee nook, coffee corner, DIY coffee bar, coffee bar organization, modern coffee bar, cozy kitchen ideas, home cafe ideas
 
 Image Prompt:
-Vertical Pinterest pin, 2:3 ratio, cozy home coffee bar setup in a bright kitchen corner, wooden floating shelves with mugs, glass jars of coffee beans and sugar, espresso machine on a white countertop, warm neutral decor, small plants, woven baskets, soft morning light, modern farmhouse style, clean organized layout, inviting at-home café aesthetic, text overlay space at top, high-resolution lifestyle photography style.
+Vertical Pinterest pin, 2:3 ratio, bright cozy home kitchen coffee bar setup, warm neutral tones, wooden floating shelves, espresso machine on a white countertop, neatly arranged mugs, glass jars with coffee beans and sugar, syrup bottles, small plants, framed coffee art, soft morning light, modern farmhouse style, clean and inviting composition, text overlay space at top, high-resolution lifestyle photography style.

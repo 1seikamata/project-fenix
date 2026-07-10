@@ -1,11 +1,11 @@
 Title:
-Small Bedroom Ideas That Make Any Room Feel Bigger
+Small Bedroom Ideas That Make Tiny Spaces Feel Bigger
 
 Description:
-Transform your tiny bedroom into a stylish, functional retreat with smart storage, cozy decor, and space-saving layout ideas. Discover easy ways to maximize every inch while keeping your room bright, organized, and beautiful.
+Transform your small bedroom into a stylish, cozy, and functional retreat with smart storage, space-saving furniture, light colors, and clever layout ideas. Perfect for apartments, guest rooms, and tiny bedrooms that need maximum style in minimal space.
 
 Keywords:
-small bedroom ideas, tiny bedroom decor, bedroom storage ideas, small room design, space saving bedroom, cozy bedroom ideas, small bedroom layout, apartment bedroom ideas, minimalist bedroom, bedroom organization, small bedroom makeover, modern bedroom decor
+small bedroom ideas, tiny bedroom decor, small bedroom design, space saving bedroom, bedroom storage ideas, small room organization, cozy bedroom ideas, apartment bedroom decor, minimalist bedroom, small bedroom layout, tiny room ideas, bedroom makeover, small space living, modern bedroom ideas, budget bedroom decor
 
 Image Prompt:
-Vertical Pinterest pin, 2:3 ratio, bright and airy small bedroom interior, neutral color palette with warm beige and white tones, space-saving bed with built-in storage drawers, floating shelves, cozy layered bedding, small nightstand, wall-mounted lighting, mirror to make the room feel larger, minimal modern decor, natural sunlight, clean organized aesthetic, stylish text overlay area at top, high-resolution lifestyle photography style.
+Vertical Pinterest pin, 2:3 ratio, bright airy small bedroom makeover, cozy modern style, neutral color palette with soft white walls, beige bedding, light wood furniture, floating shelves, under-bed storage, wall-mounted sconces, large mirror reflecting natural light, minimal decor, space-saving layout, clean and organized, stylish apartment bedroom, text overlay area at top reading “Small Bedroom Ideas”, high-resolution, warm natural lighting, magazine-style interior photography.

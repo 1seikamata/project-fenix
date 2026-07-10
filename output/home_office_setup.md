@@ -1,11 +1,11 @@
 Title:
-15 Stylish Home Office Setup Ideas for a Productive Workspace
+Home Office Setup Ideas for a Stylish, Productive Workspace
 
 Description:
-Create a home office setup that boosts focus, comfort, and style. From ergonomic desks to smart storage and cozy decor, these workspace ideas will help you design a productive office you’ll love working in every day.
+Create a home office that inspires focus and looks beautiful with these smart setup ideas. From ergonomic desk layouts to cozy decor, storage solutions, and small-space organization tips, this guide will help you design a productive workspace you’ll love using every day.
 
 Keywords:
-home office setup, home office ideas, small home office, desk setup, work from home office, productivity workspace, modern home office, office decor ideas, ergonomic office, minimalist desk setup, cozy home office, home office organization, workspace inspiration, office design
+home office setup, home office ideas, work from home setup, desk setup, office decor, small home office, ergonomic workspace, productivity tips, home office organization, minimalist office, cozy office, modern home office, desk organization, workspace design
 
 Image Prompt:
-Vertical Pinterest pin, 2:3 ratio, bright modern home office setup with a sleek wooden desk, ergonomic chair, laptop, desk lamp, plants, neutral beige and white decor, floating shelves, organized stationery, cozy natural light, minimalist Scandinavian style, clean aesthetic, high-resolution lifestyle photography, inviting and productive workspace, text overlay space at top saying “Home Office Setup Ideas”
+Vertical Pinterest pin, bright modern home office setup with a clean wooden desk, ergonomic chair, laptop, monitor, stylish desk lamp, neutral decor, plants, floating shelves, organized stationery, cozy natural light, minimalist aesthetic, warm beige and white color palette, text overlay space at top, high-resolution lifestyle photography, 2:3 aspect ratio, Pinterest-friendly design

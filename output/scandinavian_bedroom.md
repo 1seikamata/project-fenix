@@ -1,11 +1,11 @@
 Title:
-Scandinavian Bedroom Ideas for a Cozy, Minimalist Retreat
+Scandinavian Bedroom Ideas for a Calm, Cozy Minimalist Retreat
 
 Description:
-Create a calm and inviting bedroom with Scandinavian design ideas featuring soft neutrals, natural wood, cozy textures, and minimalist decor. Perfect inspiration for a bright, peaceful space that feels warm, stylish, and effortlessly organized.
+Create a peaceful Scandinavian bedroom with soft neutrals, natural wood, cozy layered bedding, and minimalist decor. These Nordic-inspired bedroom ideas are perfect for designing a bright, relaxing space that feels warm, stylish, and clutter-free.
 
 Keywords:
-Scandinavian bedroom, minimalist bedroom, cozy bedroom ideas, Nordic bedroom, neutral bedroom decor, Scandinavian decor, bedroom inspiration, modern bedroom design, small bedroom ideas, natural wood bedroom, cozy minimalist decor, hygge bedroom, white bedroom ideas, simple bedroom decor
+Scandinavian bedroom, Nordic bedroom, minimalist bedroom, cozy bedroom ideas, neutral bedroom decor, Scandinavian decor, Japandi bedroom, natural wood bedroom, white bedroom ideas, cozy minimalist decor, bedroom inspiration, modern bedroom design, hygge bedroom, small bedroom decor
 
 Image Prompt:
-Vertical Pinterest pin, cozy Scandinavian bedroom interior, soft white and beige color palette, light oak wood bed frame, layered linen bedding, chunky knit throw, minimalist nightstand, warm ambient lighting, natural textures, sheer curtains, clean modern decor, calm hygge atmosphere, bright natural light, elegant and airy composition, high-end interior design photography, 2:3 aspect ratio, no text on image
+Vertical Pinterest pin, bright Scandinavian bedroom interior, soft white walls, natural light streaming through sheer curtains, light oak wood bed frame, layered beige and white linen bedding, cozy knit throw blanket, minimal bedside table, ceramic lamp, neutral rug, subtle greenery, clean Nordic design, warm hygge atmosphere, airy minimalist styling, high-end interior photography, 2:3 aspect ratio, no text overlay

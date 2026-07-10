@@ -2,10 +2,10 @@ Title:
 Minimal Kitchen Ideas for a Clean, Modern Home
 
 Description:
-Create a calm and clutter-free cooking space with minimal kitchen design ideas featuring clean lines, neutral tones, smart storage, and timeless modern finishes. Perfect inspiration for anyone dreaming of a simple, elegant, and functional kitchen.
+Create a calm and clutter-free cooking space with these minimal kitchen ideas. From sleek cabinets and neutral tones to smart storage and natural textures, discover how to design a modern kitchen that feels bright, functional, and effortlessly stylish.
 
 Keywords:
-minimal kitchen, minimalist kitchen, modern kitchen design, clean kitchen ideas, neutral kitchen, clutter free kitchen, simple kitchen decor, Scandinavian kitchen, small minimal kitchen, modern home decor, kitchen organization, white kitchen design, minimalist interiors, functional kitchen design
+minimal kitchen, minimalist kitchen, modern kitchen design, clean kitchen ideas, neutral kitchen decor, small kitchen organization, sleek kitchen cabinets, clutter-free kitchen, Scandinavian kitchen, white kitchen design, kitchen storage ideas, simple kitchen decor, modern home interiors
 
 Image Prompt:
-Vertical Pinterest pin, 2:3 ratio, bright minimal kitchen interior with white cabinets, light oak wood accents, marble countertop, sleek hidden storage, neutral beige and cream color palette, soft natural window light, clean uncluttered surfaces, modern pendant lighting, subtle greenery in a ceramic vase, elegant Scandinavian minimalist style, high-end interior design photography, airy and calm atmosphere, no text on image
+Vertical Pinterest pin, 2:3 ratio, bright minimal kitchen interior with white flat-panel cabinets, light oak accents, marble countertop, hidden storage, matte black fixtures, soft natural light, clean uncluttered surfaces, neutral beige and white color palette, modern Scandinavian style, elegant home decor aesthetic, high-end interior photography, text overlay space at top, crisp and airy composition.
